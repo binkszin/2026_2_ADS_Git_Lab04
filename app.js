@@ -1,4 +1,4 @@
-// app.js – funções simples para forçar conflitos controlados
+  // app.js – funções simples para forçar conflitos controlados
 
 function formatUser(user) {
   // 🔥 PONTO DE CONFLITO: vários alunos alterarão este mesmo trecho
